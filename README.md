@@ -2,7 +2,7 @@
 
 This project series I will go  through the process of building a home lab to learn about Active Directory (AD) and enhance my skills for both blue and red team roles Here are some of the things we will be setting up:
 
-1. **Set Up Active Directory (AD)**: Build and configure your own Active Directory environment to understand how domain management works.
+1. **Set Up Active Directory (AD)**: Build and configure  Active Directory environment to understand how domain management works.
 2. **Splunk**: Set up Splunk to ingest telemetry from  Windows Server and target Windows machine.
 3. **Pfsense**: Acting ous the firewall
 4. **Red Team and Blue Team Exercises**: 
@@ -34,8 +34,11 @@ This project series I will go  through the process of building a home lab to lea
 ### Part 5: **Security Testing**
 - Use Kali Linux to launch a brute-force attack on one of the domain users.
 - Use **Atomic Red Team** to run tests and analyze the resulting telemetry in Splunk.
-  
+
 ---
+# TOPOLOGY
+
+![homelab drawio (1)](https://github.com/user-attachments/assets/23a24a3e-6fe8-44b1-bb5c-c96c05aef9df)
 
 
 ## Future Plans
