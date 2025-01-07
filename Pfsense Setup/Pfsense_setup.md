@@ -185,4 +185,12 @@ The security network should not have access to WAN, Management, and Corporate WA
 ![image](https://github.com/user-attachments/assets/274df3bf-7c56-4269-b7f1-10802503e265)
 
 
+### Outbound
+In order to allow security network access to the internet and simulate other networks’ access to the internet through the fake WAN, we need to set up the rules as on the picture below, in Firewall > NAT > Outbound:
+![image](https://github.com/user-attachments/assets/6011859a-24c1-4530-aa86-316ec6b6b0d3)
 
+
+You can read more about the configuration of outbound NAT and related settings in the pfSense documentation [here](https://docs.netgate.com/pfsense/en/latest/nat/outbound.html#outbound-nat).
+
+
+# Next up is setting up the DFIR VM in this case Remnux. I used a SANS remnux VM for this and I just changed the network adapter .
