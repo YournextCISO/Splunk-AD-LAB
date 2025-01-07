@@ -34,8 +34,8 @@ This project series I will go  through the process of building a home lab to lea
 ### Part 5: **Security Testing**
 - Use Kali Linux to launch a brute-force attack on one of the domain users.
 - Use **Atomic Red Team** to run tests and analyze the resulting telemetry in Splunk.
-
 ---
+
 # TOPOLOGY
 
 ![homelab drawio (1)](https://github.com/user-attachments/assets/23a24a3e-6fe8-44b1-bb5c-c96c05aef9df)
@@ -46,3 +46,11 @@ This project series I will go  through the process of building a home lab to lea
 - learning in security operations and creating more advanced security scenarios.
 - Hardening our environment and setting up correct detection rules
 - Setting up threat intel and SOAR automation
+---
+
+## Acknowledgements
+
+I would like to thank the following individuals for their valuable resources used during the creation of this project:
+
+- [Facyber](https://facyber.me/).
+- [MYDFIR](https://www.youtube.com/@MyDFIR).
