@@ -11,6 +11,7 @@ edit etc/hosts:
 ![image](https://github.com/user-attachments/assets/73e15039-ced5-4fa6-a932-49b91a9a520c)
 
 Set Static IP:
+
 ![image](https://github.com/user-attachments/assets/cfe45f7b-77e7-4820-8095-b29927c702e1)
 
 We then reboot the VM so the settings apply.
@@ -23,4 +24,6 @@ We can test connectivity using the ping tool:
 
 ![image](https://github.com/user-attachments/assets/07b5c3cd-ed68-4e7c-aeb5-00606ca42985)
 
+And that is a success . Will switch this up with the Tsurugi Linux and later add a Malware Analysis segment.
 
+Next will be to configure the Windows AD server and the clients.
