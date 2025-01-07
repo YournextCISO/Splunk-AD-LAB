@@ -71,3 +71,15 @@ Now that Iâ€™ve decided on the types of hosts and services I want to deploy, itâ
 | Corporate LAN | yournextciso.lab | 20   | 10.0.20.0/24 | 10.0.20.254 |
 | Security      | yournextciso.lab | 50   | 10.0.50.0/24 | 10.0.50.254 |
 
+
+## VMWARE SETTINGS
+
+In VMware, navigate to **Edit > Virtual Network Editor** . From there, click on the **Add Network...** button and create four networks. Name them **vmnet10**, **vmnet20**, **vmnet50**. Set all of them to **host-only**.
+
+For each network, be sure to disable the **Use local DHCP service** option, as we'll be using the firewall as our DHCP server. After that, configure the subnet IPs based on the ones we assigned earlier (or pick your own if you'd like).
+
+![image](https://github.com/user-attachments/assets/8fd15f70-cdea-4cb4-bb79-e04f05ea7647)
+
+   Next is the Pfsense Installation.
+
+
