@@ -4,7 +4,7 @@ This project series I will go  through the process of building a home lab to lea
 
 1. **Set Up Active Directory (AD)**: Build and configure  Active Directory environment to understand how domain management works.
 2. **Splunk**: Set up Splunk to ingest telemetry from  Windows Server and target Windows machine.
-3. **Pfsense**: Acting ous the firewallc(future implementation)
+3. **Pfsense**: Acting ous the firewall (future implementation)
 4. **Red Team and Blue Team Exercises**: 
    - Use **Kali Linux** for red team (attacking) activities, such as a brute-force attack on AD users.
    - Practice blue team skills by creating alerts,dashboards and reports in Splunk based on telemetry data.
