@@ -38,7 +38,8 @@ This project series I will go  through the process of building a home lab to lea
 
 # TOPOLOGY
 
-![homelab drawio (1)](https://github.com/user-attachments/assets/23a24a3e-6fe8-44b1-bb5c-c96c05aef9df)
+
+![ADlab](https://github.com/user-attachments/assets/4c40f92c-56e6-4cc6-bbcf-d1efcf34fbd9)
 
 
 ## Future Plans
